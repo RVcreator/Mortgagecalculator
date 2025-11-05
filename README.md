@@ -26,7 +26,7 @@ Clean code formatting and logical structure
 
 Clone this repository:
 
-git clone https://github.com/yourusername/mortgage-calculator.git
+git clone https://github.com/RVcreator/mortgage-calculator.git
 
 
 Navigate into the folder:
